@@ -15,4 +15,4 @@ There was an csv example in presentdata.
 If you want to experience the project, just run the SigninMain.py
 
 ## Citation
-[TropComplique/mtcnn-pytorch](https://github.com/TropComplique/mtcnn-pytorch)
+* [TropComplique/mtcnn-pytorch](https://github.com/TropComplique/mtcnn-pytorch)
