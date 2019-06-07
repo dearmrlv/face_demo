@@ -14,4 +14,6 @@ The project can be run on the following dependencies:
 5.Pillow == 5.2.0
 
 
-There was an csv example in presentdata
+There was an csv example in presentdata.
+
+If you want to experience the project, just run the SigninMain.py
