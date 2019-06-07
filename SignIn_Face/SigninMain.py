@@ -135,7 +135,7 @@ class CamShow(QMainWindow, Ui_MainWindow):
             self.Name = self.PossibleNames[0]
             self.Hint = self.Name + '\t签到成功'
             self.MsgTE.setText('\t\t\t\t' + self.Hint)
-            now_time = datetime.datetime.now()
+            now_time = datetime.datetime.now()  # 记录开始签到的时间
             time_str = datetime.datetime.strftime(now_time, '%Y-%m-%d %H:%M:%S')
             curtime = time_str[-9:]
             namecouple = [self.Name, curtime]
