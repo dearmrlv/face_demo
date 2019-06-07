@@ -8,6 +8,11 @@ This project contains a system which can use your face to sign in in your class.
 * PyQt5 == 5.11.3
 * Pillow == 5.2.0
 
+## Example
 There was an csv example in presentdata.
 
+## Run it
 If you want to experience the project, just run the SigninMain.py
+
+## Citation
+[TropComplique/mtcnn-pytorch](https://github.com/TropComplique/mtcnn-pytorch)
