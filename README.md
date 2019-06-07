@@ -7,8 +7,7 @@ This project contains a system which can use your face to sign in in your class.
 * numpy == 1.16.2
 * PyQt5 == 5.11.3
 * Pillow == 5.2.0
----
+
 There was an csv example in presentdata.
----
+
 If you want to experience the project, just run the SigninMain.py
----
